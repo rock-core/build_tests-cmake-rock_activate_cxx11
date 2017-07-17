@@ -1,5 +1,5 @@
-#ifndef _DUMMYPROJECT_DUMMY_HPP_
-#define _DUMMYPROJECT_DUMMY_HPP_
+#ifndef _ROCK_ACTIVATE_CXX11_DUMMY_HPP_
+#define _ROCK_ACTIVATE_CXX11_DUMMY_HPP_
 
 namespace rock_activate_cxx11
 {
@@ -15,4 +15,4 @@ namespace rock_activate_cxx11
 
 } // end namespace rock_activate_cxx11
 
-#endif // _DUMMYPROJECT_DUMMY_HPP_
+#endif // _ROCK_ACTIVATE_CXX11_DUMMY_HPP_
